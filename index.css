@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+#img_frame{
+    display: flex;
+    border: 10px solid red;
+}
+#img_frame img{
+    height: 100px;
+}
